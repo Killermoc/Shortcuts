@@ -28,3 +28,4 @@ code, this way is a great "dev" like structure
 maybe apple can add a bash and Ubuntu addin in
 the future.
 
+<img src="https://github.com/killermoc-hub/shortcuts/raw/master/IMG_1745.JPEG" align="right" height=140/>
