@@ -28,4 +28,5 @@ code, this way is a great "dev" like structure
 maybe apple can add a bash and Ubuntu addin in
 the future.
 
-<img src="https://github.com/Killermoc/Shortcuts/blob/main/IMG_1745.jpeg" align="right" height=140/ html="https://apps.apple.com/us/app/shortcuts/">
+<img src="https://github.com/Killermoc/Shortcuts/blob/main/IMG_1745.jpeg" align="right" height=140/>
+html="https://apps.apple.com/us/app/shortcuts/"
