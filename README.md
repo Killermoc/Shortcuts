@@ -6,7 +6,7 @@ for mapping strings to anything with a "share"
 menu. /Networkmap is just the raw text for the
 application "Shortcuts App" will still need to
 be downloaded. I plan to build this repository
-so I've include the next steps; will include a
+so I've include the next steps; I've include a
 way to pull headers and content from URLs that
 have readable material, and that includes five
 methods, with the option to insert headers and 
@@ -30,3 +30,13 @@ the future.
 
 <img src="https://github.com/Killermoc/Shortcuts/blob/main/IMG_1745.jpeg" align="right" height=140/>
 Link : "https://apps.apple.com/us/app/shortcuts/id915249334"
+
+
+
+In "GetContentsOfURL.jpeg" is another shortcut
+setup which you'll have to tie to the previous
+one in order to get the proper output. Too get
+the methods to output, their will have to be a
+readable portion, or else you'll get an error.
+Most pages have headers hidden, but if you get
+a responsive page the results are informative.
