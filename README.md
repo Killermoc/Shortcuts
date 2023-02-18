@@ -29,4 +29,4 @@ maybe apple can add a bash and Ubuntu addin in
 the future.
 
 <img src="https://github.com/Killermoc/Shortcuts/blob/main/IMG_1745.jpeg" align="right" height=140/>
-Link : "https://apps.apple.com/us/app/shortcuts/aWQ5MTUyNDkzMzQ="
+Link : "https://apps.apple.com/us/app/shortcuts/id915249334"
