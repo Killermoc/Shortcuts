@@ -33,6 +33,8 @@ Link : "https://apps.apple.com/us/app/shortcuts/id915249334"
 
 
 
+
+
 In "GetContentsOfURL.jpeg" is another shortcut
 setup which you'll have to tie to the previous
 one in order to get the proper output. Too get
